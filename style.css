@@ -1,0 +1,28 @@
+/* https://coolors.co/dcdcdd-c5c3c6-46494c-4c5c68-1985a1 */
+body {
+  font-family: 'Rock Salt', cursive;
+}
+body{
+  margin:0;
+}
+ul{
+  list-style-type:none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #1985A1;
+  position: fixed;
+  top:0;
+}
+li{
+  display: inline;
+  float: left;
+  text-align: center;
+}
+li a{
+  display: block;
+  text-decoration: none;
+  padding: 10px 50px;
+  color:#DCDCDD;
+}
